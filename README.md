@@ -21,7 +21,7 @@ The Rotten Tomatoes dataset for this project is available on Kaggle which is a h
 Before running the program, type the following command to install the libraries that the project depends on
 
 ```
-pip install tensorflow, matplotlib, scikit, numpy
+pip install tensorflow, matplotlib, scikit-learn, numpy
 ```
 Or simply type the following:
 
