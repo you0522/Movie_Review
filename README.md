@@ -20,7 +20,7 @@ The data for this project is available on Kaggle which a huge community space fo
 Before running the program, type the following command to install the libraries that the project depends on
 
 ```
-pip install nltk, keras, matplotlib, pandas, gensim, sklearn
+pip install tensorflow, matplotlib, scikit, numpy
 ```
 Or simply type the following:
 
