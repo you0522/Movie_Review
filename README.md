@@ -1,6 +1,7 @@
 # Movie_Review_Test
 
 This project predicts whether a given tweet is about a real disaster or not using Natural Langauge Procecssing (NLP).
+This project predicts the score of a movie based on the reviews from Rotten Tomatoes Dataset using Natural Language Processing (NLP).
 
 ## Getting Started
 
@@ -12,7 +13,7 @@ For more about Google Colab, go to:
 
 ### Data
 
-The data for this project is available on Kaggle which a huge community space for data scientists. Click the following link to download the dataset:
+The Rotten Tomatoes dataset for this project is available on Kaggle which is a huge community space for data scientists. Click the following link to download the dataset:
 * [Movie_Review_Dataset](https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only/data) - Kaggle Movie Review Dataset
 
 ### Installation
@@ -31,7 +32,14 @@ pip install -r requirements.txt
 ## Running the tests
 
 - The description of each function is located on top of them. Please read them before running to understand the overall structure of the project. <br/>
-- This project uses different models to classify a review (in other words, sentnece) to 5 different categories.<br/>
+- This project uses different models to classify a review (in other words, sentnece) to 5 different categories, which are:<br/>
+
+* 0 - Negative
+* 1 - Somewhat Negative
+* 2 - Neutral
+* 3 - Somewhat Positive
+* 4 - Positive
+
 - The following shows the prediction from all models:
 
 ... (The image is to be posted later...)
