@@ -1,6 +1,5 @@
 # Movie_Review_Test
 
-This project predicts whether a given tweet is about a real disaster or not using Natural Langauge Procecssing (NLP).
 This project predicts the score of a movie based on the reviews from Rotten Tomatoes Dataset using Natural Language Processing (NLP).
 
 ## Getting Started
