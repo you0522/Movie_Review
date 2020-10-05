@@ -34,11 +34,11 @@ pip install -r requirements.txt
 - The description of each function is located on top of them. Please read them before running to understand the overall structure of the project. <br/>
 - This project uses different models to classify a review (in other words, sentnece) to 5 different categories, which are:<br/>
 
-* 0 - Negative
-* 1 - Somewhat Negative
-* 2 - Neutral
-* 3 - Somewhat Positive
-* 4 - Positive
+  * 0 - Negative
+  * 1 - Somewhat Negative
+  * 2 - Neutral
+  * 3 - Somewhat Positive
+  * 4 - Positive
 
 - The following shows the prediction from all models:
 
